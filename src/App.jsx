@@ -11,7 +11,7 @@ function App() {
       <div>
         
         <a href="https://react.dev" target="_blank">
-          <img src="/src/img/anonymous-organizacion.jpg" className="logo react" alt="React logo" />
+          <img src="https://wallpaperaccess.com/full/2529602.jpg" className="logo react" alt="React logo" />
         </a>
       </div>
       <h1>Hola Supuesta Leon Elizabeth </h1>
