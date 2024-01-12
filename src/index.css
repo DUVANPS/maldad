@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 2em;
   line-height: 1.1;
 }
 
@@ -66,4 +66,7 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+@media only screen and (max-width: 600px) {
+  /* Ajusta estilos para pantallas pequeñas si es necesario */
 }
